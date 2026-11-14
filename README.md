@@ -1,2 +1,2 @@
 # Jaedol
-Everything I will be learning or I think about as my day goes
+Everything I will be learning about data science in my journey with TS Academy
